@@ -7,8 +7,6 @@ based on how much they studied today. It also includes error handling.
 
 ## How to run
 python app.py
-# hoặc
-python3 app.py
 
 ## Example interaction
 Enter hours studied today: 2
